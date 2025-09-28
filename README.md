@@ -36,18 +36,3 @@ I am currently searching for a job in the field and I am open to relocating for 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcotuliovilelabjardim@gmail.com)
 
-<br>
-
-## Projects:
-
-### [SQL Bike Parts](https://github.com/Marco-Tlio/Bike-Parts)
-This project is primarily intended to demonstrate how much can be accomplished with just a few lines of SQLite.
-
-### [SQL Muder Mystery](https://github.com/Marco-Tlio/Bike-Parts)
-A game that is proposed in https://github.com/NUKnightLab/sql-mysteries to maintain the condition of taking no notes. It's necessary to use some query techniques, mostly done on SQLite
-
-### [SQL PET SHOP](https://github.com/Marco-Tlio/SQL_PET_SHOP)
-Project using Python for data visualization (Matplotlib and Seaborn) and PostgreSQL for queries, with the objective of determining if the sales category is related to repeat purchases.
-
-### [Sweet Potato Research](https://github.com/Marco-Tlio/Research_Sweet_Potato)
-This is a repository of my research on the economic impact of sweet potatoes in the region of Presidente Prudente, Brazil. I mainly used R and Excel to transform and calculate the data. Not the final version, just to show what I did with R and Excel.
